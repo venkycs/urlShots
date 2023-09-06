@@ -1,7 +1,7 @@
 # urlShots
 Python script, powered by AI, simplifies website or URLs effortlessly in short description
 
-# urlShots - AI-Powered URL to Shorts Tool
+# urlShots - AI-Powered Web/URL Text Summarization
 
 urlShots is a Python script that harnesses the power of AI to simplify website text into short, concise summaries. This project utilizes a state-of-the-art model available at [Hugging Face](https://huggingface.co/venkycs/securityShots) that has been proven to achieve outstanding results in text summarization tasks. While initially designed for cybersecurity professionals to stay updated on critical trends, urlShots is a versatile tool that can simplify any website text for a wide range of purposes.
 
